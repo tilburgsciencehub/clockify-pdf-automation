@@ -47,8 +47,10 @@ In order to be able to run the script, you need to install [PyPDF2](https://pypi
 ### Installation
 
 1. Generate your Clockify API key in [Profile Settings](https://clockify.me/user/settings).
+
 *Warning: in order to access Billable Hours, you need to have Admin role in Clockify.*
 2. Store your API key as an environment variable called *Clockify-API-Key*.
+
 *Learn how to [Configure Environment Variables](https://tilburgsciencehub.com/building-blocks/store-and-document-your-data/store-data/environment-variables/).*
 3. Clone the repository.
    ```sh
