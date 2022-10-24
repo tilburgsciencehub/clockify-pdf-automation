@@ -64,7 +64,7 @@ In order to be able to run the script, you need to install [PyPDF2](https://pypi
 <!-- WORKFLOW -->
 ## Workflow
 The following workflow describes a new process of getting the forms signed:
-1. **Everyone:** By the end of each month, make sure you logged your hours correctly (i.e., Monday - Friday, before 8pm).
+1. **Everyone:** By the end of each month, make sure you logged all your hours.
 2. **One assigned person:** Run the script on the 1st of each month.
 3. **One assigned person:** Share all of the forms with a supervisor (typically Hannes or Tobias).
 4. **One assigned person:** Receive the forms back from a supervisor and share them with the rest of Research Assistants.
