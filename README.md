@@ -24,7 +24,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-At Tilburg Science Hub, we track our working hours in [Clockify](https://clockify.me/). In the past, to be paid for the hours we worked, we had to manually complete the [form](https://www.tilburguniversity.edu/system/files?file=download/Hours%20under%20standby%20contract%20UK%20as%20of%202023.pdf) each month, based on our Clockify records. Then, the form had to be signed by our supervisor. Finally, we had to send the signed form to [HR services](hrservices@tilburguniversity.edu) before the 5th of each month.
+At Tilburg Science Hub, we track our working hours in [Clockify](https://clockify.me/). In the past, to be paid for the hours we worked, we had to manually complete the [form](tsh_form.pdf) each month, based on our Clockify records. Then, the form had to be signed by our supervisor. Finally, we had to send the signed form to [HR services](hrservices@tilburguniversity.edu) before the 5th of each month.
 
 However, as our team grew, this process became messy with sending the forms back and forth. Not only was it time-consuming for us to manually enter the hours from Clockify and convert them to decimals, but it was also labour-intensive for our supervisors to receive and sign each form separately.
 
