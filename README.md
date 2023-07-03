@@ -52,9 +52,9 @@ In order to be able to run the script, you need to install the [PyPDF2](https://
 
 1. Generate your Clockify API key in [Profile Settings](https://clockify.me/user/settings).
 
-*Warning: in order to access Billable Hours, you need to have Admin role in Clockify.*
+*Warning: in order to access Billable Hours, you need to have an Admin role in Clockify.*
 
-2. Store your API key as an environment variable called *Clockify-API-Key*.
+2. Store your API key as an environment variable called *Clockify_API_Key*.
 
 *Learn how to [Configure Environment Variables](https://tilburgsciencehub.com/building-blocks/store-and-document-your-data/store-data/environment-variables/).*
 
@@ -70,7 +70,7 @@ In order to be able to run the script, you need to install the [PyPDF2](https://
 The following workflow describes a new process of getting the forms signed:
 1. **Everyone:** By the end of each month, make sure you logged all your hours.
 2. **One assigned person:** Run the script on the 1st of each month.
-3. **One assigned person:** Share all of the forms with a supervisor (typically Hannes or Tobias).
+3. **One assigned person:** Share all the forms with a supervisor (typically Hannes or Tobias).
 4. **One assigned person:** Receive the forms back from a supervisor and share them with the rest of Research Assistants.
 5. **Everyone:** Send the form to [HR services](mailto:hrservices@tilburguniversity.edu) before the 5th of each month.
 
