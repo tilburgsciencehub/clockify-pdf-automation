@@ -38,10 +38,10 @@ Therefore, we decided to create a script, which will retrieve our working hours 
 To get a local copy up and running follow the steps:
 
 ### Prerequisites
-In order to be able to run the script, you need to install the [PyPDF2](https://pypi.org/project/PyPDF2/) and [holidays](https://pypi.org/project/holidays/) libraries.
+In order to be able to run the script, you need to install the [pdfrw](https://pypi.org/project/pdfrw/) and [holidays](https://pypi.org/project/holidays/) libraries.
 
   ```sh
-  pip install PyPDF2
+  pip install pdfrw
   ```
   
   ```sh
